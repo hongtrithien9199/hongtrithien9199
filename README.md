@@ -12,7 +12,7 @@ int main()
         cout << "\n\n\t\t__________________________________________";
         cout << "\n\n\n\t\t\t\tLoading   "<<i<<" %"<<endl;
     if (i==10) { cout << "\n\n\t\t\tT            " ;
-                    cout <<"\n\n\n\t\tTO CO DIEU MUON NOI VOI CAU.CAU HAY LANG NGHE NHA!!!   ";
+                    cout <<"\n\n\n\t\tTO CO DIEU MUON NOI VOI CAU.CAU HAY LANG NGHE NHAA!!!   ";
                     Sleep(4000);          }
                     if (i==20) {cout <<"\n\n\n\t\tLoading....";
                     Sleep(3000); }
